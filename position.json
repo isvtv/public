@@ -1,0 +1,47 @@
+{
+  "type": [
+    "public office",
+    "position",
+    "religious title"
+  ],
+  "labels": {
+    "en": "Grand Mufti of India",
+    "eo": "Granda Muftio de Barato",
+    "ms": "Mufti Besar India"
+  },
+  "descriptions": {
+    "en": "Higher spiritual position of Indian muslims"
+  },
+  "aliases": {
+    "en": [
+      "Indian Grand Mufti",
+      "gm of india"
+    ]
+  },
+  "officeHolder": [
+    {
+      "id": "Q3595379",
+      "startDate": 1979,
+      "endDate": 1992,
+      "roleName": "Q2538679",
+      "references": {
+        "a": {
+          "url": "https://w.wiki/",
+          "retrieved": "2021-03-10T05:37:39+0000",
+          "importedFrom": "English Wikipedia"
+        },
+        "b": {
+          "url": "https://isv.wiki/",
+          "retrieved": "2021-03-10T05:37:39+0000",
+          "importedFrom": "ISV Wiki"
+        }
+      }
+    },
+    {
+      "id": "Q3595379",
+      "startDate": 1979,
+      "endDate": 1997,
+      "roleName": "Q2538679"
+    }
+  ]
+}
