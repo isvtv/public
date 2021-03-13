@@ -1,0 +1,56 @@
+{
+  "type":[
+    "human"
+  ],
+  "labels":{
+    "en":"Barack Obama",
+    "eo":"Barack Obama",
+    "ms":"Barack Obama"
+  },
+  "descriptions":{
+    "en":"44th president of the United States",
+    "eo":"44-a prezidanto de Usono",
+    "ms":"Presiden Amerika Syarikat ke-44"
+  },
+  "aliases":{
+    "en":[
+      "Barack Hussein Obama II",
+      "Barack Obama II",
+      "Barack Hussein Obama",
+      "Obama",
+      "Barak Obama",
+      "Barry Obama",
+      "President Obama",
+      "President Barack Obama",
+      "BHO",
+      "Barack",
+      "Barack H. Obama"
+    ]
+  },
+  "officeHolder":[
+    {
+      "id":"Q3595379",
+      "startDate":1979,
+      "endDate":1992,
+      "roleName":"Q2538679",
+      "references":{
+        "a":{
+          "url":"https://w.wiki/",
+          "retrieved":"2021-03-10T05:37:39+0000",
+          "importedFrom":"English Wikipedia"
+        },
+        "b":{
+          "url":"https://isv.wiki/",
+          "retrieved":"2021-03-10T05:37:39+0000",
+          "importedFrom":"ISV Wiki"
+        }
+      }
+    },
+    {
+      "id":"Q3595379",
+      "startDate":1979,
+      "endDate":1997,
+      "roleName":"Q2538679"
+    }
+  ]
+}
