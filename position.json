@@ -1,5 +1,5 @@
 {
-  "6347":{
+  "item":{
     "isvwiki":"6347",
     "type":[
       "public office",
@@ -37,12 +37,12 @@
             "importedFrom":"ISV Wiki"
           }
         ]
+      },
+      "Q3595380":{
+        "startDate":1979,
+        "endDate":1997,
+        "roleName":"Q2538679"
       }
-    },
-    "Q3595380":{
-      "startDate":1979,
-      "endDate":1997,
-      "roleName":"Q2538679"
     }
   }
 }
