@@ -22,27 +22,27 @@
       "eo":"GM de Barato"
     },
     "officeHolder":{
-      "Q3595379":{
+      "I-585":{
         "startDate":"1992-03-10T05:37:39+0000",
         "endDate":"2002-08-11T05:37:39+0000",
-        "roleName":"Q2538679",
+        "roleName":"I-274",
         "references":[
           {
             "url":"https://w.wiki/",
             "retrieved":"2021-03-10T05:37:39+0000",
-            "importedFrom":"English Wikipedia"
+            "importedFrom":"I-936"
           },
           {
             "url":"https://isv.wiki/",
             "retrieved":"2021-03-10T05:37:39+0000",
-            "importedFrom":"ISV Wiki"
+            "importedFrom":"I-583"
           }
         ]
       },
-      "Q3595380":{
+      "I-496":{
         "startDate":"1988-03-10T05:37:39+0000",
         "endDate":2018,
-        "roleName":"Q2538679"
+        "roleName":"I-385"
       }
     }
   }
