@@ -1,10 +1,10 @@
 {
   "item":{
-    "isvwiki":6347,
+    "itemID":"I-6347",
     "type":[
-      "public office",
-      "position",
-      "religious title"
+      "I-4756",
+      "I-57",
+      "I-846"
     ],
     "labels":{
       "en":"Grand Mufti of India",
@@ -17,13 +17,14 @@
     "aliases":{
       "en":[
         "Indian Grand Mufti",
-        "gm of india"
-      ]
+        "GM of India"
+      ],
+      "eo":"GM de Barato"
     },
     "officeHolder":{
       "Q3595379":{
-        "startDate":1979,
-        "endDate":1992,
+        "startDate":"1992-03-10T05:37:39+0000",
+        "endDate":"2002-08-11T05:37:39+0000",
         "roleName":"Q2538679",
         "references":[
           {
@@ -39,8 +40,8 @@
         ]
       },
       "Q3595380":{
-        "startDate":1979,
-        "endDate":1997,
+        "startDate":"1988-03-10T05:37:39+0000",
+        "endDate":2018,
         "roleName":"Q2538679"
       }
     }
