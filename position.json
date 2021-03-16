@@ -5,11 +5,6 @@
     "title":"Q61874943",
     "lastrevid":1353239220,
     "modified":"2021-02-02T14:11:52Z",
-    "type":[
-      "I4756",
-      "I57",
-      "I846"
-    ],
     "labels":{
       "en":"Grand Mufti of India",
       "eo":"Granda Muftio de Barato",
@@ -25,6 +20,11 @@
       ],
       "eo":"GM de Barato"
     },
+    "type":[
+      "I4756",
+      "I57",
+      "I846"
+    ],
     "officeHolder":{
       "I585":{
         "startDate":"1992-03-10T05:37:39+0000",
