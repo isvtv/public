@@ -8,7 +8,8 @@ echo $opp['option_value'];
 ?>
 
 //Not working
-<?php function get_option($option)
+<?php
+function get_option($option)
 {
     $op = $pdo->prepare("SELECT option_value FROM op WHERE option_name = ?");
     $op->execute([$option]);
